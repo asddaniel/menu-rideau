@@ -55,7 +55,7 @@ transform: translateY(0px) rotate(135deg);
 .nav-toggler.active .l2{
     opacity: 0;
     }
-    .nav-toggler.active .l3{
+.nav-toggler.active .l3{
         transform: translateY(0px) rotate(-135deg);
         }
 nav{
