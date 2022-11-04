@@ -37,7 +37,7 @@ h1{
 .line{
     position: absolute;
     display: block;
-    width: 100%;
+    width: 70%;
     height: 0.5vh;
     background: #f1f1f1;
     transition: 0.5s ease-out, 
